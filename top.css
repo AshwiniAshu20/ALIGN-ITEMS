@@ -1,0 +1,14 @@
+.queen{
+    display: flex;
+    height: 200px;
+    align-items: flex-start;
+    background-color: blue;
+}
+.queen > div{
+    background-color: whitesmoke;
+    width: 60px;
+    margin: 15px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+}
